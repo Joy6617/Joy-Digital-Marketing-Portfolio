@@ -107,7 +107,7 @@ Skills demonstrated:
 - Content strategy
 - On-page SEO
 
-## 8. Email Marketing Campaign
+## 3. Email Marketing Campaign
 
 An email marketing campaign demonstrating audience segmentation, copywriting, campaign structure, and conversion-focused communication.
 
@@ -126,7 +126,7 @@ Skills demonstrated:
 - Conversion strategy
 
 
-# My Marketing Approach
+# 4. My Marketing Approach
 
 My approach to digital marketing follows:
 
@@ -134,7 +134,7 @@ Research → Strategy → Content → Distribution → Measurement → Optimizat
 
 I believe effective marketing starts with understanding the audience, creating relevant content, distributing it through the right channels, and using data to continuously improve performance.
 
-# What I Can Bring to a Team
+# 5. What I Can Bring to a Team
 
 - Creative content ideas
 - Audience-focused communication
