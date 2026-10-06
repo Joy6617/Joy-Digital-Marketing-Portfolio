@@ -1,4 +1,4 @@
-# Hi, I'm Joy 👋
+# Hi, I'm Joy 
 
 ## Digital Marketer | Content Strategy | Social Media | SEO | Paid Advertising
 
