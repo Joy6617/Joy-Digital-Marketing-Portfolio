@@ -107,7 +107,7 @@ Skills demonstrated:
 - Content strategy
 - On-page SEO
 
-##  Email Marketing Campaign
+#  Email Marketing Campaign
 
 An email marketing campaign demonstrating audience segmentation, copywriting, campaign structure, and conversion-focused communication.
 
