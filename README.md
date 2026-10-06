@@ -155,4 +155,4 @@ Email: Iruobejoyce@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/joy-iruobe-31ba4039b?
 
-GitHub: [Your GitHub Profile]
+GitHub: https://github.com/joy6617
